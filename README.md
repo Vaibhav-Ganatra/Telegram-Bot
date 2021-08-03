@@ -1,7 +1,7 @@
 # Telegram-Bot
 This is the setup of a telegram-bot which when added to channels can log the chats into a Notion page, with access to files, messages being edited, etc. The various steps in the setup and usage of this are:
 
-* Create a new Telegram bot using the steps listed [here](@https://core.telegram.org/bots#6-botfather)
+* Create a new Telegram bot using the steps listed [here](https://core.telegram.org/bots#6-botfather)
 * Setup the Notion API keys
 * Add the webhook to the Telegram bot
 * Run the server to handle updates to the Telegram bot
